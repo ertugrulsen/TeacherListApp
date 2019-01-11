@@ -1,0 +1,18 @@
+/* Empty. Add your own CSS if you like */
+.star>.item-content{
+
+	background: -color: #EEE8D6;
+
+}
+.splash{
+
+
+	width:555px;
+
+	background: url(../img/2.jpg) no-repeat center center fixed;
+		-webkit-background-size:cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size:cover;
+
+}/* Empty. Add your own CSS if you like */
